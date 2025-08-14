@@ -1,0 +1,6 @@
+# Ignore video files and the YOLO model
+*.mp4
+yolov8n.pt
+
+# Ignore Python cache
+__pycache__/
